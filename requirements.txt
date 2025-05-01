@@ -13,6 +13,7 @@ ultralytics==8.2.10
 Pillow==11.2.1
 numpy==2.2.5
 deep-sort-realtime==1.3.2
+opencv-python-headless
 
 # Note: sqlite3 is part of the Python standard library and does not need to be listed here.
 # Note: os, datetime, tempfile are also standard libraries.
