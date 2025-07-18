@@ -29,7 +29,7 @@ st.set_page_config(page_title="Smart Farming Assistant", layout="wide")
 
 # --- Configuration ---
 # Configure Gemini API (Replace with your actual key)
-GEMINI_API_KEY = "AIzaSyDOJYzdBRgG41OCTeL-8NriYsn5wHfBSII" # <--- REPLACE WITH YOUR KEY
+GEMINI_API_KEY = "YOUR KEY " # <--- REPLACE WITH YOUR KEY
 try:
     if not GEMINI_API_KEY or GEMINI_API_KEY == "YOUR_GEMINI_API_KEY_HERE":
         gemini_available = False
